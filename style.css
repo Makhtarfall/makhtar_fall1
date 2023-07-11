@@ -1,0 +1,35 @@
+
+.left{
+    margin: 10%;
+    margin-top: 15%;
+    padding-top: 10%;
+
+}
+
+   
+.left h1{
+    color: rgb(55, 55, 196);
+   
+}
+.right{
+    margin-top: 20%;
+    border: rgb(97, 95, 95) 1px solid;
+    border-radius: 8px;
+    padding: 10px;
+    box-shadow: rgb(139, 130, 130) 1px 5px 5px;
+    background-color: rgb(186, 190, 190);
+
+    
+
+}
+.connexion{
+    width: 100%;
+    background-color: rgb(55, 55, 196);
+    color: white;
+    padding:10%;
+}
+
+    
+div a{
+    text-decoration: none;
+}
